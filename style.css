@@ -827,6 +827,16 @@ textarea.form-control {
 .btn:hover {
   background-color: #0d9488;
 }
+@media (max-width: 1214px) {
+
+ 
+.form-control {
+  width: 80%;
+ 
+}
+}
+
+
 
 @media (max-width: 768px) {
   .contact-container {
@@ -837,4 +847,9 @@ textarea.form-control {
   .contact-form {
     max-width: 100%;
   }
+ 
+.form-control {
+  width: 80%;
+ 
+}
 }
