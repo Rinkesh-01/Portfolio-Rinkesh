@@ -834,6 +834,14 @@ textarea.form-control {
   width: 80%;
  
 }
+.contact-info {
+	display: block;
+	width: 100%;
+}
+.contact-info p {
+	width: 100%;
+}
+
 }
 
 
@@ -852,4 +860,13 @@ textarea.form-control {
   width: 80%;
  
 }
+.contact-item {
+	width: 100%;
+
+	text-align: center;
+	justify-content: center;
 }
+}
+
+
+
