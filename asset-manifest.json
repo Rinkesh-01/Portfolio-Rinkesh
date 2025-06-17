@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/Portfolio-Rinkesh/static/js/main.d5c643a0.js",
+    "main.js": "/Portfolio-Rinkesh/static/js/main.b43a2fe7.js",
     "index.html": "/Portfolio-Rinkesh/index.html",
-    "main.d5c643a0.js.map": "/Portfolio-Rinkesh/static/js/main.d5c643a0.js.map"
+    "main.b43a2fe7.js.map": "/Portfolio-Rinkesh/static/js/main.b43a2fe7.js.map"
   },
   "entrypoints": [
-    "static/js/main.d5c643a0.js"
+    "static/js/main.b43a2fe7.js"
   ]
 }
